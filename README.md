@@ -1,6 +1,8 @@
 # Congreso_Bootstrap
 
 This is an easy web page about an game event.
+<br>
+[Link](https://ricardorobledo.github.io/Congreso_Bootstrap/)
 
 
 <br>
